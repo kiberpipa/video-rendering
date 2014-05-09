@@ -22,7 +22,7 @@ Run kdenlive and do:
 
 - insert introduction movie (intro.mp4)
 - cut start/end of the video
-- render (screenshot)
+- render: press ctrl-enter (screenshot)
 
 ## Denoise (optional)
 

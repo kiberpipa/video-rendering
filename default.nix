@@ -8,7 +8,5 @@ stdenv.mkDerivation rec {
 
   src = ./tmp;
 
-  #buildInputs = [ ffmpeg (kde4.wrapper kde4.kdenlive) filezilla ];
-  buildInputs = [ ffmpeg (kde4.wrapper kde4.kdenlive) filezilla ];
-
+  buildInputs = [ ffmpeg (kde4.wrapper kde4.kdenlive) filezilla audacity ];
 }
