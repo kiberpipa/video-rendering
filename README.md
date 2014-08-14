@@ -24,6 +24,8 @@ Run kdenlive and do:
 - cut start/end of the video
 - press ctrl-enter to render (see screenshot for settings)
 
+![Kdenlive profile](profile.png)
+
 ## 5. Denoise (optional)
 
 - $ ffmpeg -i video.mp4 -acodec pcm_s16le -ac 2 temp.wav
